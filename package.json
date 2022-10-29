@@ -1,0 +1,14 @@
+{
+  "name": "prueba-1",
+  "version": "0.0.1",
+  "description": "prueba 1 semana 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Sosa",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.6.0"
+  }
+}
